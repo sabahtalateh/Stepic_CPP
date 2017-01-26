@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers/main.cpp" "/Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers/cmake-build-debug/CMakeFiles/GCD.dir/main.cpp.o"
+  "/Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/main.cpp" "/Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles/les7_multidimensional_arrays.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

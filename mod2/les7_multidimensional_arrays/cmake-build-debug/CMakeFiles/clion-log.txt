@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays
 -- The C compiler identification is AppleClang 8.0.0.8000042
 -- The CXX compiler identification is AppleClang 8.0.0.8000042
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers/cmake-build-debug
+-- Build files have been written to: /Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug

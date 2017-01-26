@@ -54,45 +54,45 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers
+CMAKE_SOURCE_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/GCD.dir
+# Target rules for target CMakeFiles/les7_multidimensional_arrays.dir
 
 # All Build rule for target.
-CMakeFiles/GCD.dir/all:
-	$(MAKE) -f CMakeFiles/GCD.dir/build.make CMakeFiles/GCD.dir/depend
-	$(MAKE) -f CMakeFiles/GCD.dir/build.make CMakeFiles/GCD.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target GCD"
-.PHONY : CMakeFiles/GCD.dir/all
+CMakeFiles/les7_multidimensional_arrays.dir/all:
+	$(MAKE) -f CMakeFiles/les7_multidimensional_arrays.dir/build.make CMakeFiles/les7_multidimensional_arrays.dir/depend
+	$(MAKE) -f CMakeFiles/les7_multidimensional_arrays.dir/build.make CMakeFiles/les7_multidimensional_arrays.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target les7_multidimensional_arrays"
+.PHONY : CMakeFiles/les7_multidimensional_arrays.dir/all
 
 # Include target in all.
-all: CMakeFiles/GCD.dir/all
+all: CMakeFiles/les7_multidimensional_arrays.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/GCD.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/GCD.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ak-4xxi/Code/Stepic_CPP/mod2/Pointers/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/GCD.dir/rule
+CMakeFiles/les7_multidimensional_arrays.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/les7_multidimensional_arrays.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/les7_multidimensional_arrays.dir/rule
 
 # Convenience name for target.
-GCD: CMakeFiles/GCD.dir/rule
+les7_multidimensional_arrays: CMakeFiles/les7_multidimensional_arrays.dir/rule
 
-.PHONY : GCD
-
-# clean rule for target.
-CMakeFiles/GCD.dir/clean:
-	$(MAKE) -f CMakeFiles/GCD.dir/build.make CMakeFiles/GCD.dir/clean
-.PHONY : CMakeFiles/GCD.dir/clean
+.PHONY : les7_multidimensional_arrays
 
 # clean rule for target.
-clean: CMakeFiles/GCD.dir/clean
+CMakeFiles/les7_multidimensional_arrays.dir/clean:
+	$(MAKE) -f CMakeFiles/les7_multidimensional_arrays.dir/build.make CMakeFiles/les7_multidimensional_arrays.dir/clean
+.PHONY : CMakeFiles/les7_multidimensional_arrays.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/les7_multidimensional_arrays.dir/clean
 
 .PHONY : clean
 
