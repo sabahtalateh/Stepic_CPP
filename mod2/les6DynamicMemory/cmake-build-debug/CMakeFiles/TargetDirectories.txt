@@ -1,0 +1,3 @@
+/Users/ak-4xxi/Code/Stepic_CPP/mod2/les6DynamicMemory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ak-4xxi/Code/Stepic_CPP/mod2/les6DynamicMemory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ak-4xxi/Code/Stepic_CPP/mod2/les6DynamicMemory/cmake-build-debug/CMakeFiles/les6DynamicMemory.dir
