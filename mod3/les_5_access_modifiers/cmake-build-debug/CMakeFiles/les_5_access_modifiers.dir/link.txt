@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/les_5_access_modifiers.dir/main.cpp.o CMakeFiles/les_5_access_modifiers.dir/Cls.cpp.o  -o les_5_access_modifiers 

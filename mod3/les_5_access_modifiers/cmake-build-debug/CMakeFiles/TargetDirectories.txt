@@ -1,0 +1,3 @@
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles/les_5_access_modifiers.dir

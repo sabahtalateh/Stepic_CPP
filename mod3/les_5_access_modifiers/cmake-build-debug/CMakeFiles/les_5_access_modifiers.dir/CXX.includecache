@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.cpp
+Cls.h
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.h
+
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.h
+
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/main.cpp
+iostream
+-
+Cls.h
+/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.h
+
