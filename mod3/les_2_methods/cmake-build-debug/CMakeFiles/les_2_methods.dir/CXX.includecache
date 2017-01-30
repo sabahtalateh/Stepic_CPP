@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/main.cpp
+iostream
+-
+cmath
+-
+point.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/point.h
+string.cpp
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/string.cpp
+
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/point.cpp
+point.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/point.h
+
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/point.h
+
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/string.cpp
+cstddef
+-
+cstring
+-
+iostream
+-
+

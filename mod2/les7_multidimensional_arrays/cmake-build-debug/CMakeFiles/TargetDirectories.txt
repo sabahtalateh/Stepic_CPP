@@ -1,3 +1,3 @@
-/Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles/les7_multidimensional_arrays.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/CMakeFiles/les7_multidimensional_arrays.dir
