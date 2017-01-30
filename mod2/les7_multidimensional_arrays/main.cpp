@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stdlib.h>
+#include <stddef.h>
 
 using namespace std;
 
@@ -51,8 +51,8 @@ void swap_min(int *m[], unsigned rows, unsigned cols)
     int min = m[0][0];
     unsigned min_row_n = 0;
 
-    for (std::size_t i = 0; i != (rows - 1); i++) {
-        for (std::size_t j = 0; j != (rows -1); j++) {
+    for (std::size_t i = 0; i != (rows); i++) {
+        for (std::size_t j = 0; j != (cols); j++) {
             if (m[i][j] < min) {
                 min = m[i][j];
                 min_row_n = (unsigned int) i;
@@ -60,22 +60,42 @@ void swap_min(int *m[], unsigned rows, unsigned cols)
         }
     }
 
-    cout << min << " " << min_row_n;
-
+    if (min_row_n != 0) {
+        int * t = m[min_row_n];
+        m[min_row_n] = m[0];
+        m[0] = t;
+    }
 }
 
 int main() {
 
-    int **matrix = create_array_2d_effective(2,3);
-    matrix[0][0] = 2;
-    matrix[0][1] = 4;
-    matrix[0][2] = 5;
+    int **m = create_array_2d_effective(2,3);
+    m[0][0] = 2;
+    m[0][1] = 4;
+    m[0][2] = 5;
 
-    matrix[1][0] = 1;
-    matrix[1][1] = 2;
-    matrix[1][2] = 2;
+    m[1][0] = 1;
+    m[1][1] = 2;
+    m[1][2] = 2;
 
-    swap_min(matrix, 3, 3);
+    for (int i = 0; i < 2; ++i) {
+        for (int j = 0; j < 3; ++j) {
+            cout << m[i][j] << " ";
+        }
+        cout << endl;
+    }
+
+    cout << endl;
+
+    swap_min(m, 2, 3);
+
+    for (int i = 0; i < 2; ++i) {
+        for (int j = 0; j < 3; ++j) {
+            cout << m[i][j] << " ";
+        }
+        cout << endl;
+    }
+
 
 
 //    int **matrix = create_array_2d_effective(2,3);

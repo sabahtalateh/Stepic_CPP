@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays
+# Install script for directory: /Users/sabahtalateh/Code/Stepic_CPP/mod2/les7_multidimensional_arrays
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ak-4xxi/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/sabahtalateh/Code/Stepic_CPP/mod2/les7_multidimensional_arrays/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

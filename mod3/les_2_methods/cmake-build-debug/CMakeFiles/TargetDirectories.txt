@@ -1,0 +1,3 @@
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_2_methods/cmake-build-debug/CMakeFiles/les_2_methods.dir
