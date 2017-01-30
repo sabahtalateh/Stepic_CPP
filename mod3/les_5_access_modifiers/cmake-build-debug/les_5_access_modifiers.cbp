@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
+				<Option working_dir="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
+				<Option working_dir="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
+				<Option working_dir="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="les_5_access_modifiers">
-				<Option output="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/les_5_access_modifiers" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
+				<Option output="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/les_5_access_modifiers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 les_5_access_modifiers"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 les_5_access_modifiers"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="les_5_access_modifiers/fast">
-				<Option output="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/les_5_access_modifiers" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
+				<Option output="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/les_5_access_modifiers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,23 +75,23 @@
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 les_5_access_modifiers/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 les_5_access_modifiers/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.cpp">
+		<Unit filename="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.cpp">
 			<Option target="les_5_access_modifiers"/>
 		</Unit>
-		<Unit filename="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.h">
+		<Unit filename="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/Cls.h">
 			<Option target="les_5_access_modifiers"/>
 		</Unit>
-		<Unit filename="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/main.cpp">
+		<Unit filename="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/main.cpp">
 			<Option target="les_5_access_modifiers"/>
 		</Unit>
-		<Unit filename="/Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/CMakeLists.txt">
+		<Unit filename="/Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
