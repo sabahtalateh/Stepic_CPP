@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/less7_copy_constructors.dir/main.cpp.o CMakeFiles/less7_copy_constructors.dir/String.cpp.o CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o  -o less7_copy_constructors 
