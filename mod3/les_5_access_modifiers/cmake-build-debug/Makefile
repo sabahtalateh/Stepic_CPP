@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers
+CMAKE_SOURCE_DIR = /Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles /Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles /Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ak-4xxi/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sabahtalateh/Code/Stepic_CPP/mod3/les_5_access_modifiers/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

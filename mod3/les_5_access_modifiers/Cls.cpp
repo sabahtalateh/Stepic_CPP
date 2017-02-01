@@ -9,3 +9,7 @@ Cls::Cls(char c, double d, int i) {
     this->d = d;
     this->i = i;
 }
+
+char Cls::getC() {
+    return this->c;
+}
