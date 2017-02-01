@@ -18,10 +18,16 @@ int main() {
 
     IntArray * a = new IntArray(2);
 
-    int t = 2;
+
+
+    int t1 = 2;
+    int t2 = 2;
+
+
 
 //    cout << i[0];
-    cout << ++t;
+    cout << ++t1 << endl;
+    cout << t2++ << endl;
 
 //    String const * s1 = new String("CPP YEAH!");
 //    String * s2 = new String(*s1);

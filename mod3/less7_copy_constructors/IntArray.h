@@ -11,7 +11,21 @@
 struct IntArray {
     IntArray(size_t size);
 
-    IntArray(IntArray const & a);
+    IntArray(IntArray const &a);
+
+    IntArray &operator=(IntArray const &a);
+
+    ~IntArray();
+
+    void swap(IntArray &a);
+
+    size_t size () const;
+
+    int get(size_t i) const;
+
+    int &get(size_t i);
+
+    void resize(size_t n_size);
 
 private:
     size_t size_;

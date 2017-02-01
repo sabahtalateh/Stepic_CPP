@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors
+CMAKE_SOURCE_DIR = /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/less7_copy_constructors.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/less7_copy_constructors.dir/flags.make
 
 CMakeFiles/less7_copy_constructors.dir/main.cpp.o: CMakeFiles/less7_copy_constructors.dir/flags.make
 CMakeFiles/less7_copy_constructors.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/less7_copy_constructors.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/less7_copy_constructors.dir/main.cpp.o -c /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/less7_copy_constructors.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/less7_copy_constructors.dir/main.cpp.o -c /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp
 
 CMakeFiles/less7_copy_constructors.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/less7_copy_constructors.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp > CMakeFiles/less7_copy_constructors.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp > CMakeFiles/less7_copy_constructors.dir/main.cpp.i
 
 CMakeFiles/less7_copy_constructors.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/less7_copy_constructors.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp -o CMakeFiles/less7_copy_constructors.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp -o CMakeFiles/less7_copy_constructors.dir/main.cpp.s
 
 CMakeFiles/less7_copy_constructors.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/less7_copy_constructors.dir/main.cpp.o.provides.build: CMakeFiles/les
 
 CMakeFiles/less7_copy_constructors.dir/String.cpp.o: CMakeFiles/less7_copy_constructors.dir/flags.make
 CMakeFiles/less7_copy_constructors.dir/String.cpp.o: ../String.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/less7_copy_constructors.dir/String.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/less7_copy_constructors.dir/String.cpp.o -c /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/less7_copy_constructors.dir/String.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/less7_copy_constructors.dir/String.cpp.o -c /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp
 
 CMakeFiles/less7_copy_constructors.dir/String.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/less7_copy_constructors.dir/String.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp > CMakeFiles/less7_copy_constructors.dir/String.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp > CMakeFiles/less7_copy_constructors.dir/String.cpp.i
 
 CMakeFiles/less7_copy_constructors.dir/String.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/less7_copy_constructors.dir/String.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp -o CMakeFiles/less7_copy_constructors.dir/String.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp -o CMakeFiles/less7_copy_constructors.dir/String.cpp.s
 
 CMakeFiles/less7_copy_constructors.dir/String.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/less7_copy_constructors.dir/String.cpp.o.provides.build: CMakeFiles/l
 
 CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o: CMakeFiles/less7_copy_constructors.dir/flags.make
 CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o: ../IntArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o -c /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o -c /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp
 
 CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp > CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp > CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.i
 
 CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp -o CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp -o CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.s
 
 CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o.requires:
 
@@ -143,7 +143,7 @@ less7_copy_constructors: CMakeFiles/less7_copy_constructors.dir/String.cpp.o
 less7_copy_constructors: CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o
 less7_copy_constructors: CMakeFiles/less7_copy_constructors.dir/build.make
 less7_copy_constructors: CMakeFiles/less7_copy_constructors.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable less7_copy_constructors"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable less7_copy_constructors"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/less7_copy_constructors.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -162,6 +162,6 @@ CMakeFiles/less7_copy_constructors.dir/clean:
 .PHONY : CMakeFiles/less7_copy_constructors.dir/clean
 
 CMakeFiles/less7_copy_constructors.dir/depend:
-	cd /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug /Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug /Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/less7_copy_constructors.dir/depend
 
