@@ -8,6 +8,7 @@
 
 struct Cls {
     Cls(char c, double d, int i);
+    char getC();
 
 private:
     char c;
