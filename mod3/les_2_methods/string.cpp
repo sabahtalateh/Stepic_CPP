@@ -51,6 +51,9 @@ struct String {
         delete [] str;
     }
 
+    char & at(size_t idx)       { return str[idx]; }
+    char   at(size_t idx) const { return str[idx]; }
+
     size_t size;
     char *str;
 };
