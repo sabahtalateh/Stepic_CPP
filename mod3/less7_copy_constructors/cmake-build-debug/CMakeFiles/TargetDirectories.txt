@@ -1,3 +1,3 @@
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir

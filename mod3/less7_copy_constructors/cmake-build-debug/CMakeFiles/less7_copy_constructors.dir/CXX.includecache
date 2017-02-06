@@ -6,31 +6,33 @@
 
 #IncludeRegexTransform: 
 
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp
+algorithm
+-
 IntArray.h
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.h
 
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.h
 cstddef
 -
 
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp
 algorithm
 -
 String.h
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.h
 
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.h
 cstddef
 -
 cstring
 -
 
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp
 iostream
 -
 String.h
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.h
 IntArray.h
-/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.h
+/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.h
 

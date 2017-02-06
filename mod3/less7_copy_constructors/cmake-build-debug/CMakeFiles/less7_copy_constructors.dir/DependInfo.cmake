@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp" "/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o"
-  "/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp" "/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/String.cpp.o"
-  "/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp" "/Users/ak-4xxi/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/main.cpp.o"
+  "/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/IntArray.cpp" "/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/IntArray.cpp.o"
+  "/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/String.cpp" "/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/String.cpp.o"
+  "/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/main.cpp" "/Users/sabahtalateh/Code/Stepic_CPP/mod3/less7_copy_constructors/cmake-build-debug/CMakeFiles/less7_copy_constructors.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
