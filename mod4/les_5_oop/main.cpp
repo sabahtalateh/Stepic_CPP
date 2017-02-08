@@ -124,13 +124,41 @@ struct PrintVisitor : Visitor {
     }
 };
 
+struct Person {
+public:
+    int get_age() const {
+        return age;
+    }
+
+    virtual void add_bober() {
+        bober++;
+    }
+
+private:
+
+
+
+    int bober;
+    int age;
+};
+
+struct Student : private Person {
+public:
+//    virtual void add_bober(){}
+private:
+    void add_bober(){}
+};
+
 int main() {
+
+    Student * s = new Student();
+//    s->add_bober();
 
     // (1 + 4) * (2 + 3)
 
-    Expression * onePlusFour = new BinaryOperation(new Number(1), '+', new Number(4));
-    Expression * twoPlusThree = new BinaryOperation(new Number(2), '+', new Number(3));
-    Expression * firstMulSecond = new BinaryOperation(onePlusFour, '*', twoPlusThree);
+    Expression *onePlusFour = new BinaryOperation(new Number(1), '+', new Number(4));
+    Expression *twoPlusThree = new BinaryOperation(new Number(2), '+', new Number(3));
+    Expression *firstMulSecond = new BinaryOperation(onePlusFour, '*', twoPlusThree);
 
     Expression *sube = new BinaryOperation(new Number(12), '+', new Number(5));
     Expression *sube1 = new BinaryOperation(sube, '*', new Number(5));
